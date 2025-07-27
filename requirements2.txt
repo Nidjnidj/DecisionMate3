@@ -1,8 +1,7 @@
 streamlit
+pandas
 numpy
 numpy-financial
-pandas
 plotly
-matplotlib
 fpdf
-xlsxwriter
+networkx
